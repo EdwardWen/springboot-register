@@ -1,0 +1,5 @@
+com\register\register\controller\UserController.class
+com\register\register\service\UserService.class
+com\register\register\entity\User.class
+com\register\register\mapper\UserMapper.class
+com\register\register\RegisterApplication.class

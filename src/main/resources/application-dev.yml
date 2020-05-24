@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    username: h2o
+    password: h2o12345
+    url: jdbc:mysql//3306/student
+    driver-class-name: com.mysql.jdbc.Driver
+mybatis:
+  mapper-locations: classpath:mapping/*Mapper.xml
